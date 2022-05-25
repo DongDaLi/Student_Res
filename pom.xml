@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <!-- spring版本号 -->
-    <spring.version>4.2.5.RELEASE</spring.version>
+    <spring.version>5.2.22.RELEASE</spring.version>
     <!-- SQLite版本号 -->
     <sqlite.version>3.23.1</sqlite.version>
     <!-- mybatis版本号 -->
