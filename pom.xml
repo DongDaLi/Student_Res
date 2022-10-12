@@ -28,7 +28,7 @@
     <!-- jsp版本号 -->
     <jsp.version>2.2</jsp.version>
     <!-- shiro版本号 -->
-    <shiro.version>1.2.3</shiro.version>
+    <shiro.version>1.10.0</shiro.version>
     <!-- jackson版本号 -->
     <jackson.version>2.9.5</jackson.version>
     <!--支付宝版本号-->
