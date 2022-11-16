@@ -30,7 +30,7 @@
     <!-- shiro版本号 -->
     <shiro.version>1.2.3</shiro.version>
     <!-- jackson版本号 -->
-    <jackson.version>2.9.5</jackson.version>
+    <jackson.version>2.12.7.1</jackson.version>
     <!--支付宝版本号-->
     <alipay.version>3.7.4.ALL</alipay.version>
   </properties>
